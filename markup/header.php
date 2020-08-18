@@ -10,7 +10,7 @@ require 'constants.php';
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="<?= SITE_DIR ?>favicon.ico" rel="shortcut icon" type="image/x-icon"/>
-    <link rel="stylesheet" href="<?= SITE_TEMPLATE_PATH . '/dist/css/bundle.min.css' ?>"/>
+    <link rel="stylesheet" href="<?= SITE_TEMPLATE_PATH . '/dist/css/main.css' ?>"/>
 </head>
 <body>
 <header class="header">
